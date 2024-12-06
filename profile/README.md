@@ -7,8 +7,8 @@ VR Builder offers several key strengths:
 - It is the perfect solution for use cases such as VR training and product demos.
   
 ## Repos
-- [VR-Builder](https://github.com/MindPort-GmbH/VR-Builder): This is the official VR Builder open-source repository. VR Builder releases are available in the [Releases](https://github.com/MindPort-GmbH/VR-Builder/releases) section. The [VR Builder Pro](https://u3d.as/3pUD) asset on the Unity Asset Store is based on this, but offers additional functionality.
-- [VR Builder Documentation](https://github.com/MindPort-GmbH/VR-Builder-Documentation): This is the repo for the online documentation. The published documentation can be found [here](documentation.mindport.co).
+- [VR-Builder](https://github.com/MindPort-GmbH/VR-Builder): This is the VR Builder open-source repository. You can find VR Builder releases in the [Releases](https://github.com/MindPort-GmbH/VR-Builder/releases) section. The [VR Builder Pro](https://u3d.as/3pUD) asset on the Unity Asset Store is based on this repository. It offers additional functionality.
+- [VR Builder Documentation](https://github.com/MindPort-GmbH/VR-Builder-Documentation): This is the repository for the online documentation. The published documentation is available [here](documentation.mindport.co).
 
 ## Professional services
 If you want in scaling your VR application creation pipeline, please check out our [professional services](https://www.mindport.co/vr-builder/pricing) page.
