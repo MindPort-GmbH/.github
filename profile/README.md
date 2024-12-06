@@ -14,7 +14,7 @@ VR Builder offers several key strengths:
 If you are looking to scale your VR application creation pipeline, please check out our [professional services](https://www.mindport.co/vr-builder/pricing) page.
 
 ## Contributions and Community
-We are committed to fostering an active and engaged community here on GitHub and on Discord. Here's some ways you could get involved.
+We are committed to fostering an active and engaged community here on GitHub and on Discord. Here are some ways you can get involved:
 Engage on Discord: Share your pain points and success stories with us on [Discord](https://discord.gg/H7JXTTT9) and help each other.
 Issue reporting: Help us identify and fix issues by reporting them on [GitHub](https://github.com/MindPort-GmbH/VR-Builder/issues).
 Improving [VR Builder](https://github.com/MindPort-GmbH/VR-Builder): Leave your mark on the project by enhancing code, documentation or visual elements.
