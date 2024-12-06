@@ -11,7 +11,7 @@ VR Builder offers several key strengths:
 - [VR Builder Documentation](https://github.com/MindPort-GmbH/VR-Builder-Documentation): This is the repository for the online documentation. The published documentation is available [here](documentation.mindport.co).
 
 ## Professional services
-If you want in scaling your VR application creation pipeline, please check out our [professional services](https://www.mindport.co/vr-builder/pricing) page.
+If you are looking to scale your VR application creation pipeline, please check out our [professional services](https://www.mindport.co/vr-builder/pricing) page.
 
 ## Contributions and Community
 We are committed to fostering an active and engaged community here on GitHub and on Discord. Here's some ways you could get involved.
