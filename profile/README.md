@@ -1,8 +1,23 @@
 # MindPort GitHub Page
+This is the home of VR Builder, an open-source toolkit for easily creating VR applications.
 
-This is the home of the official VR Builder repos.
+VR Builder offers several key strengths:
+- It empowers you to create fully functional VR apps—without writing code.
+- It streamlines development by removing repetitive tasks to keep you focused.
+- It is the perfect solution for use cases such as VR training and product demos.
+  
+## Repos
+- [VR-Builder](https://github.com/MindPort-GmbH/VR-Builder): This is the VR Builder open-source repository. You can find VR Builder releases in the [Releases](https://github.com/MindPort-GmbH/VR-Builder/releases) section. The [VR Builder Pro](https://u3d.as/3pUD) asset on the Unity Asset Store is based on this repository. It offers additional functionality.
+- [VR Builder Documentation](https://github.com/MindPort-GmbH/VR-Builder-Documentation): This is the repository for the online documentation. The published documentation is available [here](documentation.mindport.co).
 
-The following repos have public access:
+## Professional services
+If you are looking to scale your VR application creation pipeline, please check out our [professional services](https://www.mindport.co/vr-builder/pricing) page.
 
-- [VR-Builder](https://github.com/MindPort-GmbH/VR-Builder): This is the official VR Builder repository, matching the package found on the [Unity Asset Store](https://assetstore.unity.com/packages/tools/visual-scripting/vr-builder-open-source-toolkit-for-vr-creation-201913). Here you can download older releases or contribute to our open-source product.
-- [VR-Builder-Community-Content](https://github.com/MindPort-GmbH/VR-Builder-Community-Content): This is meant to be a collection of tools from the community to the community. Here users can share their contributions more freely - for example, custom behaviors and conditions that are too situational to be in the core package, but could still be useful to someone. There are no package releases for this repo - just pull it inside your VR Builder project.
+## Contributions and Community
+We are committed to fostering an active and engaged community here on GitHub and on Discord. Here are some ways you can get involved:
+- Engage on Discord: Share your pain points and success stories with us on [Discord](https://discord.gg/H7JXTTT9) and help each other.
+- Report issues: Help us improve by reporting bugs and issues on [GitHub](https://github.com/MindPort-GmbH/VR-Builder/issues).
+- Contribute to [VR Builder](https://github.com/MindPort-GmbH/VR-Builder): Leave your mark on the project by enhancing code, documentation or visual elements.
+- Contribute to documentation: Participate in our open-source [documentation](https://github.com/MindPort-GmbH/VR-Builder-Documentation) to improve accessibility and usability.
+
+Join us to make a difference and shape the future of VR Builder together!
