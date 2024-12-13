@@ -15,9 +15,9 @@ If you are looking to scale your VR application creation pipeline, please check 
 
 ## Contributions and Community
 We are committed to fostering an active and engaged community here on GitHub and on Discord. Here are some ways you can get involved:
-Engage on Discord: Share your pain points and success stories with us on [Discord](https://discord.gg/H7JXTTT9) and help each other.
-Report issues: Help us improve by reporting bugs and issues on [GitHub](https://github.com/MindPort-GmbH/VR-Builder/issues).
-Contribute to [VR Builder](https://github.com/MindPort-GmbH/VR-Builder): Leave your mark on the project by enhancing code, documentation or visual elements.
-Contribute to documentation: Participate in our open-source [documentation](https://github.com/MindPort-GmbH/VR-Builder-Documentation) to improve accessibility and usability.
+- Engage on Discord: Share your pain points and success stories with us on [Discord](https://discord.gg/H7JXTTT9) and help each other.
+- Report issues: Help us improve by reporting bugs and issues on [GitHub](https://github.com/MindPort-GmbH/VR-Builder/issues).
+- Contribute to [VR Builder](https://github.com/MindPort-GmbH/VR-Builder): Leave your mark on the project by enhancing code, documentation or visual elements.
+- Contribute to documentation: Participate in our open-source [documentation](https://github.com/MindPort-GmbH/VR-Builder-Documentation) to improve accessibility and usability.
 
 Join us to make a difference and shape the future of VR Builder together!
