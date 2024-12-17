@@ -1,10 +1,5 @@
 # MindPort GitHub Page
 This is the home of VR Builder, an open-source toolkit for easily creating VR applications.
-
-VR Builder offers several key strengths:
-- It empowers you to create fully functional VR apps—without writing code.
-- It streamlines development by removing repetitive tasks to keep you focused.
-- It is the perfect solution for use cases such as VR training and product demos.
   
 ## Repos
 - [VR-Builder](https://github.com/MindPort-GmbH/VR-Builder): This is the VR Builder open-source repository. You can find VR Builder releases in the [Releases](https://github.com/MindPort-GmbH/VR-Builder/releases) section. The [VR Builder Pro](https://u3d.as/3pUD) asset on the Unity Asset Store is based on this repository. It offers additional functionality.
